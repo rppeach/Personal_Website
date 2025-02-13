@@ -1,0 +1,22 @@
+html{
+    display: inline-block;
+    width: 100%;
+}
+header{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 48px;
+    color: white;
+    -webkit-text-stroke: black 1px;
+}
+div.Francis{
+    font-family: cursive;
+    font-size: 48px;
+    padding: 20px;
+    color: black;
+    -webkit-text-stroke: white .5px;
+    background-color: black;
+}
